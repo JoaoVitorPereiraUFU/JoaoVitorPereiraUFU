@@ -8,7 +8,7 @@ In my free time I like to play soccer(⚽️)  and watch the best team in the wo
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaovtpereira/)](https://www.linkedin.com/in/joaovtpereira/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=Facebook&logoColor=white&link=https://www.facebook.com/joaovitor.pereira.75033/)](https://www.facebook.com/joaovitor.pereira.75033/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=Instagram&logoColor=white&https://www.instagram.com/joaovitorpr_/)](https://www.instagram.com/joaovitorpr_/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-833AB4?style=flat-square&labelColor=833AB4&logo=Instagram&logoColor=white&https://www.instagram.com/joaovitorpr_/)](https://www.instagram.com/joaovitorpr_/)
 <!--
 **JoaoVitorPereiraUFU/JoaoVitorPereiraUFU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
